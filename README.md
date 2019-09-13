@@ -1,0 +1,1 @@
+This repository contains notebooks related to the tutorial on Matplotlib by Corey Schafer. The videos are posted in his YouTube channel.
